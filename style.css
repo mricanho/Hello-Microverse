@@ -1,0 +1,13 @@
+.first {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+h1 {
+  color: rgba(13, 13, 117, 0.623);
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
